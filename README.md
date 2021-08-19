@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Samir
+- 👀 I’m interested in react, making restful apis and computer science in general.
+- 🌱 I’m currently learning more react to make myself a better developer.
+- 💞️ I’m looking to collaborate on any project that will have a supportive community of developers.
